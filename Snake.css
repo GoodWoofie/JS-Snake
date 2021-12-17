@@ -1,0 +1,10 @@
+#score {
+    text-align: center;
+    font-size: 70px;
+}
+.canvas {
+    width: 800px;
+}
+#gameCanvas {
+    margin: 0px auto;
+}
